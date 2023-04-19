@@ -3,3 +3,4 @@ webdriver-manager
 moviepy
 requests
 beautifulsoup4
+lxml
