@@ -6,4 +6,4 @@
 pip install -r requirements.txt
 ``` 
 Watch this full tutorial on how to use this bot step by step<br>
-     >
+     > https://youtu.be/b5Qo_Fc80cc
